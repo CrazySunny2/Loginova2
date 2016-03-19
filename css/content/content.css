@@ -1,0 +1,96 @@
+ .content {
+	 padding:0;
+	 margin:0;
+}
+.content__title {
+  font-size: 10px;
+  font-family: "Open Sans";
+  color: rgba(191, 191, 191, 0.502);
+  font-weight: bold;
+  line-height: 2.4;
+  text-align: left;
+  float: left;
+  position: absolute;
+  left: 299px;
+  top: 793px;
+}
+.content__number {
+	position: absolute;
+  font-size: 22px;
+  font-family: "Gentium Basic";
+  color: rgba(191, 191, 191, 0.49);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.091;
+  text-align: left;
+  float:left;
+
+}
+.content__number--1{
+  left: 307px;
+  top: 815px;
+}
+.content__number--5{
+  left:  317px;
+  top: 985px;
+}
+.content__number--10{
+	left: 308px;
+  top: 1255px;
+}
+.content__number--15{
+	left:  308px;
+  top: 1495px;
+}
+.content__number--20{
+left: 317px;
+  top: 1745px;	
+}
+.content__number--25{
+left: 317px;
+  top: 1935px;	
+}
+.content__number--30{
+left: 318px;
+  top: 2185px;	
+}
+.content__text{
+  position: absolute;
+  font-size: 22px;
+  font-family: "Gentium Book Basic";
+  color: rgb(25, 25, 25);
+  line-height: 1.818;
+  text-align: left;
+  position: absolute;
+  left: 359px;
+  top: 815px;
+  width: 700px;
+  height: 1422px;
+}
+.content__quote{
+	  position: relative;
+	color: #626262;
+        text-align: center;
+        font-size: 30px;
+        font-style: italic;
+	
+}
+
+.contentbutton{
+font-size: 12px;
+  font-family: "Open Sans";
+  color: rgb(168, 168, 168);
+  background-color: rgba(168, 168, 168, 0);
+  font-weight: bold;
+  text-align: center;
+  position: absolute;
+  left: 669.922px;
+  top: 2320px;	
+  border: none;
+  float: top;
+}
+
+
+
+	
+	
