@@ -1,0 +1,82 @@
+.header{
+}
+.header__gradient {
+   opacity: 0.502;
+  position: absolute;
+   padding:0;
+  left: 0px;
+  top: 410px;
+  width: 1437px;
+  height: 360px;
+  z-index: 2;
+}
+.header__img{
+  position: absolute;
+  background-size:100%;
+background-repeat: no-repeat;
+  padding:0;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+  
+}
+.header__info{
+	 position: relative;
+	 text-align: left;
+	 font-family: "Gentium Book Basic";
+	 left:368.422px;
+	 top: 565px;
+	 width: 700px;
+	 color: rgb(215, 215, 215);
+	 z-index: 2;
+}
+.header__info__title{
+	font-size: 60px;
+  line-height: 0.4;
+   color: rgb(255, 255, 255);
+   margin-bottom:25px;
+	
+}
+.header__info__headline{
+	font-size: 30px;
+  font-style: italic;
+  line-height: 0.8;
+  margin-bottom:25px;
+	
+}
+.header__info__line{
+
+background: url(../../img/line.png);
+height: 1px;
+}
+.header__info__autor{
+  font-size: 12px;
+  font-family: "Open Sans";
+  font-weight: bold;
+  line-height: 1.667;
+  float: left;
+  text-align:bottom;
+
+	
+}
+.header__info__social{
+	float:right;
+	margin-top:40px;
+	color: rgb(255, 255, 255);
+	
+
+}
+.header__info__social--heart{
+padding-left:10px;
+}
+.header__info__social--back{
+	padding-left:10px;
+}
+
+.ava{
+padding-left:10px;
+float: right;
+}
+.header__info__autor__name{
+	color:rgb(255, 255, 255);
+}

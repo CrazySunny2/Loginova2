@@ -1,0 +1,40 @@
+.footer{
+	 padding:0;
+	 margin:0;
+}
+
+
+
+.footer__img{
+position:absolute;
+background: url(../../img/footerbg2.png);
+background-size:100%;
+background-repeat: no-repeat;
+  left: -83px;
+  top: 2386px;
+  width: 1523px;
+  height: 1009px;
+
+
+}
+.footerbutton{
+  position: absolute;
+  border-style: solid;
+  border-width: 2px;
+  border-radius:  30px;
+  color: rgb(46, 204, 113);
+  font-size: 12px;
+  font-family: "Open Sans";
+  text-align: center;
+  border-color: rgb(46, 204, 113);
+  background-color: rgba(46, 204, 113, 0);
+  padding:10px;
+  left: 619px;
+  top: 2484px;
+  width: 200px;
+  height: 58px;
+  float:center;
+z-index: 1;
+}
+
+

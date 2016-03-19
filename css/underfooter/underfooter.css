@@ -1,0 +1,63 @@
+
+.underfooter{
+	padding:0;
+	margin:0;
+}
+
+.underfooter__box{
+	background-size:100%;
+background-repeat: no-repeat;
+  top: 2640px;
+  width: 720px;
+  height: 360px;
+  padding:0;
+	margin:0;
+	float: left;
+}
+
+.underfooter__box--1{
+	position: absolute;
+	background: url(../../img/blockimg1.png);
+	left: 0px;
+ 
+}
+.underfooter__box--2{
+position: absolute;
+ background: url(../../img/blockimg2.png);
+  left: 720px;
+}
+.underfooter__box__next{
+ font-size: 15px;
+  font-family: "Open Sans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 2.8;
+  text-align: left;
+  padding-left: 64.656px;
+  padding-top: 40px;
+
+	
+}
+
+ .underfooter__box__seaside{
+ font-size: 35px;
+  font-family: "Gentium Book Basic";
+  color: rgb(255, 255, 255);
+  line-height: 1.143;
+  text-align: left;
+ padding-left: 66.625px;
+
+ 
+	 
+ }
+  .underfooter__box__this{
+
+  font-family: "Gentium Book Basic";
+  color: rgb(215, 215, 215);
+  font-size: 30px;
+  font-style: italic;
+  line-height: 0.8;
+ }
+
+ 
