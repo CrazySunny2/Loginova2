@@ -62,16 +62,16 @@ height: 1px;
 }
 .header__info__social{
 	float:right;
-	margin-top:36px;
+	margin-top:35px;
 	color: rgb(255, 255, 255);
 	
 
 }
 .header__info__social--heart{
-padding-left:8px;
+padding-left:10px;
 }
 .header__info__social--back{
-	padding-left:20px;
+	padding-left:22px;
 }
 
 .ava{
