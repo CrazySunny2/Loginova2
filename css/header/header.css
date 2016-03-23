@@ -67,12 +67,13 @@ height: 1px;
 	
 
 }
+.header__info__social--back{
+	padding-left:15px;
+}
 .header__info__social--heart{
 padding-left:5px;
 }
-.header__info__social--back{
-	padding-left:25px;
-}
+
 
 .ava{
 padding-left:10px;
