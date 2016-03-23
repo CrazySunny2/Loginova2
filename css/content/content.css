@@ -26,9 +26,7 @@
   line-height: 1.091;
 
 }
-p {
-    margin-bottom: 5em;
-}
+
 .content__text{
   position: absolute;
   font-size: 22px;
@@ -42,7 +40,7 @@ p {
   width: 700px;
   height: 1422px;
 }
-.content__quote{
+.content__text__quote{
 	  position: relative;
 	color: #626262;
         text-align: center;
