@@ -2,7 +2,7 @@
 	 padding:0;
 	 margin:0;
 }
-.content__title {
+.content__lines {
   font-size: 10px;
   font-family: "Open Sans";
   color: rgba(191, 191, 191, 0.502);
@@ -11,10 +11,12 @@
   text-align: left;
   float: left;
   position: absolute;
-  left: 310px;
-  top:790px;
+  left: 299px;
+  top: 793px;
+  width: 30px;
+  height: 1422px;
 }
-.content__number {
+.content__lines__number {
 	position: absolute;
   font-size: 22px;
   font-family: "Gentium Basic";
@@ -24,6 +26,7 @@
   line-height: 1.091;
   text-align: left;
   float:left;
+  padding-bottom: 25px;
 
 }
 .content__number--1{
@@ -63,7 +66,7 @@ left: 318px;
   text-align: left;
   position: absolute;
   left: 369px;
-  top: 794px;
+  top: 795px;
   width: 700px;
   height: 1422px;
 }
