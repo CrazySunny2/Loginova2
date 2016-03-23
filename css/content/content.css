@@ -23,7 +23,7 @@
   color: rgba(191, 191, 191, 0.49);
   font-weight: bold;
   font-style: italic;
-
+margin:0;
   padding:0;
 }
 .content__lines__number--1{
