@@ -26,34 +26,7 @@
   float:left;
 
 }
-.content__number--1{
-  left: 307px;
-  top: 815px;
-}
-.content__number--5{
-  left:  317px;
-  top: 985px;
-}
-.content__number--10{
-	left: 308px;
-  top: 1255px;
-}
-.content__number--15{
-	left:  308px;
-  top: 1495px;
-}
-.content__number--20{
-left: 317px;
-  top: 1745px;	
-}
-.content__number--25{
-left: 317px;
-  top: 1935px;	
-}
-.content__number--30{
-left: 318px;
-  top: 2185px;	
-}
+
 .content__text{
   position: absolute;
   font-size: 22px;
