@@ -7,7 +7,6 @@
   font-family: "Open Sans";
   color: rgba(191, 191, 191, 0.502);
   font-weight: bold;
-  line-height: 0;
   text-align: center;
   float: left;
   position: absolute;
@@ -24,6 +23,7 @@
   color: rgba(191, 191, 191, 0.49);
   font-weight: bold;
   font-style: italic;
+  line-height: 0;
 
 }
 .content__lines__number--1{
