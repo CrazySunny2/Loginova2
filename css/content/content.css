@@ -26,8 +26,11 @@
 
 
 }
+.content__lines__number--5{
+ line-height:5;	
+}
 .content__lines__number--5 .content__lines__number--10 .content__lines__number--15 .content__lines__number--20 .content__lines__number--25 .content__lines__number--30{
-  line-height:6;
+ 
 }
 
 .content__text{
