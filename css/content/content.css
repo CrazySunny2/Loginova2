@@ -27,16 +27,24 @@
 
 }
 
-.content__lines__number--5, .content__lines__number--20, .content__lines__number--25, .content__lines__number--30{
-  line-height:11.25;
+.content__lines__number--5,
+  line-height: 11.6;
 }
 .content__lines__number--10{
  line-height:13.6;	
 }
 .content__lines__number--15{
- line-height:9;	
+ line-height:7;	
 }
-
+.content__lines__number--20{
+	
+}
+.content__lines__number--25{
+	
+}
+.content__lines__number--30{
+	
+}
 .content__text{
   position: absolute;
   font-size: 22px;
