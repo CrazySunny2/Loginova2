@@ -67,7 +67,7 @@ font-size: 12px;
   color: rgb(168, 168, 168);
   background-color: rgba(168, 168, 168, 0);
   font-weight: bold;
-  position: absolute;
+  position: relative;
   text-align:center;
   top: 2320px;	
   border: none;
