@@ -68,14 +68,13 @@ font-size: 12px;
   background-color: rgba(168, 168, 168, 0);
   font-weight: bold;
   position: absolute;
-  text-align:justify;
+  text-align:center;
   top: 2320px;	
   border: none;
-  float: center;
+  float: top;
 }
 .text{
-
-text-align: ;	
+text-align:justify ;	
 }
 .list {
 list-style-position: inside;
