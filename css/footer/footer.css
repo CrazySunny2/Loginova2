@@ -10,11 +10,11 @@ position:absolute;
 background: url(../../img/footerbg2.png);
 background-size:100%;
 background-repeat: no-repeat;
-  left: -83px;
+  left: 0px;
   top: 2386px;
-  width: 1523px;
+  width: 1440px;
   height: 254px;
-
+padding-right:3px;
 
 }
 .footerbutton{
