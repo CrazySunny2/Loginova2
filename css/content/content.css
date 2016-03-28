@@ -71,7 +71,7 @@ font-size: 12px;
   
   top: 2320px;	
   border: none;
-  float: middle;
+  float: center top;
 }
 .text{
 	position:relative;
