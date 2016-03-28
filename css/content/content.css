@@ -61,19 +61,7 @@ padding-top:181px;
 	
 }
 
-.contentbutton{
-	position:absolute;
-font-size: 12px;
-  font-family: "Open Sans";
-  color: rgb(168, 168, 168);
-  background-color: rgba(168, 168, 168, 0);
-  font-weight: bold;
-  text-align:center;
-  top: 2320px;
-  left: 670px;
-  border: none;
 
-}
 .text{
 text-align:justify ;	
 }
