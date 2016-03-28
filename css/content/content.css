@@ -46,7 +46,6 @@ padding-top:181px;
   color: rgb(25, 25, 25);
   line-height: 1.86;
   text-align: left;
-  position: absolute;
   left: 369px;
   top: 795px;
   width: 700px;
@@ -75,6 +74,7 @@ font-size: 12px;
   float: top;
 }
 .contentbutton__text{
+	position:relative;
 text-align: justify;	
 }
 .list {
