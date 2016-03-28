@@ -8,11 +8,11 @@
 .footer__img{
 position:absolute;
 background: url(../../img/footerbg2.png);
-background-size:auto;
+background-size:100%;
 background-repeat: no-repeat;
   top: 2386px;
   width: 1440px;
-  height: 260px;
+  height: 254px;
 left:0;
 }
 
