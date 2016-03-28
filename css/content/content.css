@@ -68,13 +68,13 @@ font-size: 12px;
   background-color: rgba(168, 168, 168, 0);
   font-weight: bold;
   position: absolute;
-  
+  text-align: center;
   top: 2320px;	
   border: none;
-  float: center top;
+ 
 }
 .text{
-	position:relative;
+	position:absolute;
 text-align: justify;	
 }
 .list {
