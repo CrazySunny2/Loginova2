@@ -86,11 +86,8 @@ text-align:justify ;
 .list{
 list-style-position: inside;
 padding-left: 30px;
-}
-.list__text {
 width:700px;
 text-align:justify;
-
 }
 
 	
