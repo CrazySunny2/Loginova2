@@ -82,14 +82,14 @@ font-size: 12px;
 
 .text{
 text-align:center ;	
-letter-spacing:0.5em;
+letter-spacing:0.1em;
 }
 .list{
 list-style-position: inside;
 padding-left: 30px;
 width:670px;
 text-align:justify;
-letter-spacing:-0.003em;
+letter-spacing:-0.0015em;
 
 }
 .list--text1, .list--text2, .list--text3{
