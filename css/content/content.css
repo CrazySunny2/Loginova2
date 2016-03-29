@@ -86,13 +86,12 @@ text-align:justify ;
 .list{
 list-style-position: inside;
 padding: 0;
-margin-left:20 px;
+margin-left:20px;
 }
 .list__text {
 width:700px;
 text-align:justify;
- padding-top:-4px;
- left:-5px;
+
 }
 
 	
