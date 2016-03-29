@@ -85,17 +85,11 @@ text-align:justify ;
 }
 .list{
 list-style-position: inside;
-padding-left: 25px;
+padding-left: 23px;
 width:700px;
 text-align:justify;
 
 }
-.list--text1{
-margin-top:1.8em;
+.list--text1, .list--text2, .list--text3{
+margin-top:1.9em;
 }
-.list--text2{
-margin-top:1.8em;
-}	
-.list--text3{
-margin-top:1.8em;
-}	
