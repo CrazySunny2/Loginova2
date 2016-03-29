@@ -83,14 +83,14 @@ font-size: 12px;
 .text{
 text-align:justify ;	
 }
-.list{
+.list, .list--text{
 list-style-position: inside;
 padding-left: 27px;
 width:700px;
 text-align:justify;
 
 }
-.listtext{
+.list--text{
 margin-top:2.5em;
 margin-bottom:2.5em;	
 }
