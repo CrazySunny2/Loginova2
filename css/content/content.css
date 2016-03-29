@@ -89,7 +89,7 @@ list-style-position: inside;
 .list__text {
 width:700px;
 text-align:justify;
- padding-top:2px;
+ padding-top:-1px;
 }
 
 	
