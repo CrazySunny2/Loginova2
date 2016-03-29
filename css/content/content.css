@@ -84,7 +84,8 @@ font-size: 12px;
 text-align:justify ;	
 }
 .list{
-list-style-position: inside;	
+list-style-position: inside;
+margin-left:10 px;
 }
 .list__text {
 width:700px;
