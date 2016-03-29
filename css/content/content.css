@@ -85,6 +85,7 @@ text-align:justify ;
 }
 .list{
 list-style-position: inside;
+padding: 0;
 margin-left:10 px;
 }
 .list__text {
