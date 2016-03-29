@@ -82,8 +82,10 @@ font-size: 12px;
 .text{
 text-align:justify ;	
 }
-.list {
-list-style-position: inside;
+.list{
+list-style-position: inside;	
+}
+.content__text__list {
 width:700px;
 text-align:justify;
  padding-top:2px;
