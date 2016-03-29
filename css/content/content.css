@@ -83,14 +83,16 @@ font-size: 12px;
 .text{
 text-align:justify ;	
 }
-.list{
+.list, .list__text{
 list-style-position: inside;
 padding-left: 27px;
 width:700px;
 text-align:justify;
-margin-top:2em;
-margin-bottom:2em;
-}
 
+}
+.list__text{
+margin-top:2em;
+margin-bottom:2em;	
+}
 	
 	
