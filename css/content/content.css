@@ -85,11 +85,11 @@ text-align:justify ;
 }
 .list{
 list-style-position: inside;
-padding-left: 23px;
+padding-left: 26px;
 width:700px;
 text-align:justify;
 
 }
 .list--text1, .list--text2, .list--text3{
-margin-top:1.9em;
+margin-top:1.85em;
 }
